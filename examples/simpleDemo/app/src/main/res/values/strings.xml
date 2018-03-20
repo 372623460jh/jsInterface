@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">js与原生交互</string>
+    <string name="action_settings">Settings</string>
+</resources>
