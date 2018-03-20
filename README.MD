@@ -12,7 +12,7 @@
 
 - pro链接：http://libs.ijianghe.cn/js/jsInterface/jsInterface.min.js
 
-- demo地址：http://libs.ijianghe.cn/js/jsInterface/jsInterface.min.js
+- demo地址：https://github.com/372623460jh/jsInterface/tree/master/examples/simpleDemo
 
 ## WebView实例的常用设置
 
