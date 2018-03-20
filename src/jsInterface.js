@@ -2,7 +2,6 @@
  * $jh中与原生Android交互组件
  * Created by jianghe
  */
-'use strict';
 ;(function definejsInterface(global, factory) {
     //初始化$jh
     var jsInterface = {};
@@ -17,7 +16,7 @@
         global.jsInterface = jsInterface;
     }
 })(window, function (global, jsInterface, undefined) {
-
+    'use strict';
     // 返回回调方法
     var backHandlerCallBack = null;
 
